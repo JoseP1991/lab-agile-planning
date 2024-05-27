@@ -1,6 +1,6 @@
 ---
-name: User Story
-about: This temple is for creating user stories
+name: Historia de Usuario
+about: Esta plantilla es creada para historias de usuario
 title: ''
 labels: ''
 assignees: ''
